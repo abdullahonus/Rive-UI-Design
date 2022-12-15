@@ -3,4 +3,4 @@
 *.cpp linguist-detectable=false
 *.dart linguist-detectable=true
 *.html linguist-detectable=false
-*.cmake linguist-detectable=false
+*.CMake linguist-detectable=false
