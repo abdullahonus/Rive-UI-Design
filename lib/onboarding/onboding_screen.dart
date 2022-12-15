@@ -1,5 +1,8 @@
 import 'dart:ui';
-
+////////////////////////////////////////////
+  ///follow For more ig: @Countrol4offical
+  ///@countrolfour@gmail.com
+////////////////////////////////////////////
 import 'package:flutter/material.dart';
 import 'package:rive/rive.dart';
 
@@ -124,4 +127,7 @@ class _OnbodingScreenState extends State<OnbodingScreen> {
       ),
     );
   }
-}
+}////////////////////////////////////////////
+  ///follow For more ig: @Countrol4offical
+  ///@countrolfour@gmail.com
+////////////////////////////////////////////
